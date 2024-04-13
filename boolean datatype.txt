@@ -1,0 +1,10 @@
+boolean datatype 
+boolean x;
+default value for boolean is false
+putting any variable and not using it in program will giva na error
+there are three type of m=comment in java 
+1 //Single line comment
+2 /* multiline comment */
+3 /** Documentation comment 
+	*/
+
