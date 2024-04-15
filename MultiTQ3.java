@@ -16,7 +16,7 @@
 
 import java.util.*;
 
-class A {
+class MultiThreadA {
     protected int number;
     int changedNum = 0;
 
@@ -60,7 +60,7 @@ public class MultiTQ3 extends Thread {
         Scanner input = new Scanner(System.in);
         int x = input.nextInt();
         input.close();
-        A obj = new A();
+        MultiThreadA obj = new MultiThreadA();
         obj.setnumber(x);
         Thread t1 = new Thread(new Runnable() {
             public void run(){

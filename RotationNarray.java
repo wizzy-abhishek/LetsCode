@@ -15,7 +15,7 @@ public class RotationNarray {
             int r = input.nextInt();
             int element;
             for (int i = 0; i < r-1 ; i++) {
-                element = Arr[s - 1];
+                element = Arr[s - 1]; // This isnt changing the value of last position neither pushing elements furthur //
                 Arr[i] = element;
             }
             for (int i = 0; i < s; i++) {

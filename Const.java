@@ -33,5 +33,6 @@ public class Const {
         System.out.println(AwwObj.Name);
         System.out.println(Y);
         System.out.println(X);
+        input.close();
     }
 }
