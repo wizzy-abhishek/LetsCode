@@ -6,10 +6,10 @@ class Employee{
     private String ID ;
     private int Salary ;
 
-    public Employee(String N , String I , int S){
-        Name = N ; 
-        ID = I ;
-        Salary = S ;
+    public Employee(String Name , String ID , int Salary){
+        this.Name = Name ; 
+        this.ID = ID ;
+        this.Salary = Salary ;
     }
     public String getName(){
         return Name ;
@@ -26,18 +26,18 @@ class Employee{
 public class ConstWGet {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        System.out.println("ENTER NAME : ");
+        System.out.print("ENTER NAME : ");
         String X = input.nextLine();
 
-        System.out.println("ENTER ID : ");
+        System.out.print("ENTER ID : ");
         String Y = input.nextLine();
 
-        System.out.println("ENTER Salary : ");
+        System.out.print("ENTER Salary : ");
         int Z = input.nextInt();
-
+        System.out.println();
         Employee Eobj = new Employee(X, Y, Z);
-        System.out.println(Eobj.getName());
-        System.out.println(Eobj.getID());
+        System.out.println(Eobj.getID() + " : " + Eobj.getName());
         System.out.println(Eobj.getSalary());
+        input.close();
     }
 }
