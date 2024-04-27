@@ -6,8 +6,8 @@ class Game{
     int Computer ;
     int User ; 
     
-    public Game(int Co){
-         Computer = Co ;
+    public Game(int Computer){
+         this.Computer = Computer ;
     }
 
     public void takeUserInput(){
@@ -17,15 +17,15 @@ class Game{
         input.close();
     }
 
-    public void isNumberCorrect(int C , int U){
-        Computer = C ;
+    public void isNumberCorrect(int Computer  , int U){
+        this.Computer = Computer ;
         User = U ;
-        for(int i = 0 ; C == U ; i++){
-            if(C == U){
+        for(int i = 0 ; Computer == U ; i++){
+            if(Computer == U){
                 System.out.println("Yayyy You Got It...");
                 break ;
             }
-            else if (U > C){
+            else if (U > Computer){
                 System.out.println("Your number is greater");
             }
             else {

@@ -1,0 +1,81 @@
+Abstraction is the process of showing the essential details while hiding the bg details 
+It can be achived by two ways in java 
+1. Interfaces 
+2. Abstract class
+An abstract class is a class declared with abstract keyword , it can have both abstract and non abstract methods
+An abstract class is a way to archive Abstraction in OOPS
+an abstract class cant be instiansiated 
+it can have final methods 
+it can have constructor and static methods 
+An abstract class cant be declared final
+ex : - abstract class A {
+    abstract void xyz(){
+
+    }
+    final void abc(){
+
+    }
+}
+Array 
+Class
+//Abstact class
+//nested class
+Constructor 
+//this and super
+main method 
+java runtime data input
+Static scpoe 
+recursion
+Inheritance Concept
+ Types of Inheritances
+ Method Overriding
+ super Keyword
+ Dynamic Method Dispatch
+ Abstract Class in Java
+ final Keyword in Java 
+ Access Modifiers in Java
+• Default Access modifier
+• public Access Modifier
+• private Access Modifier
+• protected Access Modifier
+• Concept of Package in Java
+• Built-in Packages in Java
+• Defining Packages in Java 
+• Accessing a Package
+• Importing a Package
+• Access Protection for Packages
+• Interfaces in Java
+• Inheritance with Interface
+• Standard Interfaces in Java
+• Some Salient Points
+• Multiple Inheritance Issue
+exceptional Handling
+• Concept of Multithreading
+• Multithreading in Java
+• Creating Threads with Thread
+• Creating Threads with Runnable
+• States of a Thread
+• Scheduling of Threads
+• Priority of Threads
+• Synchronization of Threads
+• Input-Output Streams in Java
+• Java Classes for I-O Streams
+• Java Input Stream Classes
+• Java Output Stream Classes
+• Character Stream Classes
+ Usage of I-O Stream Classes
+• Files Handling in Java
+• Checking Status of a File
+• Reading a File
+• Writing into a File
+• Reading from a File
+• Storing Data into a File
+• Merging two Files into a File
+• Random Access Files in Java
+• Interactive Input-Output
+• Graphical Input-Output
+Applet 
+AWT
+SWING 
+JDBC 
+NETWORKING 

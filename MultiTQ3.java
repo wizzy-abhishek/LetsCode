@@ -10,58 +10,48 @@
 // When two thread or process tries to access same resource at same time and causes
 // problem in system
 
-// So i am trying to take a input from user then two methods will keep changing the value
-// and it will be saved in another variable and I am trying that the variable 
-// wont get locked or it wont affect the threads
 
-import java.util.*;
+
 
 class MultiThreadA {
-    protected int number;
-    int changedNum = 0;
-
-    public void setnumber(int n) {
-        number = n;
-    }
-
-    public int getnumber() {
-        return number;
-    }
+    int sharedNumber = 100 ;
 
     synchronized public void initialAction() {
         for (int i = 0 ; i <= 100 ; i++ ){
+            
+            int k = sharedNumber ;
+            k++ ; 
+            sharedNumber = k ; 
+            System.out.println("This is first thread (main number) : " + sharedNumber);
             try {
                 wait(1);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-            System.out.println("This is first thread (main number) : " + number);
-            changedNum++ ;
-            number++ ;
             notify();
         }
     }
 
     synchronized public void laterAction(){
         for(int i = 0 ; i <= 100 ; i++){
-            try {
-                wait(1);
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-            }
-            System.out.println("This is second thread (changedNum) : " + changedNum * 100);
+            int j = sharedNumber ;
+            j-- ;
+            sharedNumber = j ;
+           System.out.println("This is second thread (changedNum) : " + sharedNumber);
+           try {
+            wait(1);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
             notify();
         }
     }
 }
 
 public class MultiTQ3 extends Thread {
+    
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
-        int x = input.nextInt();
-        input.close();
         MultiThreadA obj = new MultiThreadA();
-        obj.setnumber(x);
         Thread t1 = new Thread(new Runnable() {
             public void run(){
                 obj.initialAction();
@@ -73,7 +63,19 @@ public class MultiTQ3 extends Thread {
             }
         });
         t1.start();
+        // try {
+        //     t1.sleep(2);
+        // } catch (InterruptedException e) {
+        //     // TODO Auto-generated catch block
+        //     e.printStackTrace();
+        // }
         t2.start();
+        // try {
+        //     t2.sleep(2);
+        // } catch (InterruptedException e) {
+        //     // TODO Auto-generated catch block
+        //     e.printStackTrace();
+        // }
     }
 
 }

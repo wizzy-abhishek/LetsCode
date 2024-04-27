@@ -2,7 +2,7 @@ class StaticA {
     static int a = 10;
 
     void m() // but if we decare this method static it cant be overrided .
-    {
+    {   
         int b = 15;
         // a = a + 50;
         System.out.println(a);

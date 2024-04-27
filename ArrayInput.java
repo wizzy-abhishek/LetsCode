@@ -10,7 +10,7 @@ class ArrayInput {
             number[i] = Input.nextInt();
         }
         System.out.println("The Given Input are : ");
-        for (int n = 0; n < 5; n++) /* {if(number[n]<10){ */
+        for (int n = 0; n < number.length; n++) /* {if(number[n]<10){ */
             System.out.println(number[n]);
         /*
          * else{

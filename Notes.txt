@@ -1,0 +1,36 @@
+#Abstract_Class
+    Abstarct class it cant be instantiated (Object of that class cant be created )
+    but we can inherit it and use dynamic method DISPATCH (like upcaasting )
+    An abstract classes method is overrided in its child class (ifsubclass is not overriding that abstract method that class is also abstract class)
+    It can have constructor and static methods 
+    It can have feild and non abstract methods too
+    In abstract class we can declare feild that are not static and final 
+    Also we can declare public , protected and private method  
+
+# Interface
+    A Interface or Class can extend many interfaces using comma 
+    If we dont specify the interfaces as public access modifier than we can only use that interface in same package 
+    The interface body contains 
+        Abstract methods
+        Default method
+        Static method
+    While defining default method we have to use defaukt keyword
+
+
+#Nested_Class
+    A class within class is know as nested class 
+    To call the object of nested class we haveto use a certain declartion Types
+    Example
+        class Gargi{
+            .....
+            class Abhishek{
+                ........
+            }
+        }
+        class main{
+            Gargi.Abhishek ObjofAbhsiehk = Gargi.new Abhishek();
+        }
+
+
+#this_Keyword
+    this keyword gives a refernce to the current object 
