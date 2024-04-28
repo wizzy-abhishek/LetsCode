@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea2e63ef-1e2d-4f4c-9e57-29f4351d6f67" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ATM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATMException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATMactions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Add.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Add.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AreaCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AreaCircle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayAvg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayAvg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayObj.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayObj.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Avg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Avg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CapturePhoto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codechef.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codechef.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Const.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Const.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstWGet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstWGet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CopingArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CopingArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fabonarci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fabonarci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForLoopOdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForLoopOdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Git.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GuessNumberGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GuessNumberGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IOFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IOFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IOLearn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoopPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD_Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD_Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD_Array_userL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD_Array_userL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiTQ2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiTQ2$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiTQ2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiTQ2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiTQ3$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiTQ3$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiTQ3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiTQ3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiThreadA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multithread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multithread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Myt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mytt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Name.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Name.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oct4UserinputMultiplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oct4UserinputMultiplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oct4_userinput_Add.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oct4_userinput_Add.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palandrome2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palandrome2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParameterizedCallinThroughObj.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParameterizedCallinThroughObj.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimeAdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrintNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question61.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question61.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question62.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question62.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question65.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question65.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RemoveDuplicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RemoveDuplicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RotationNarray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RotationNarray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SETGET.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SETGET.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Second.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Second.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimilarElementArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimilarElementArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SquareThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StaticA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StaticExp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StaticExp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StaticVar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringRev.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringRev.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperExp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperExp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperExp1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperExp2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestAbst.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestAprog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestAprog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Two.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Two.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoDArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwoDArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeOfSpehere.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeOfSpehere.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordPallendrom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordPallendrom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WriteInFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/arraySum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/arraySum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bankatm/files/AccountInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bankatm/files/Credentials.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bankatm/files/DepositAmt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bankatm/files/InternalWork.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bankatm/files/NetBanking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bankatm/files/WithdrawlAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/display.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/MessageBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/NetBFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritanceA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritanceB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interfaces.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interfaces.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pacakageLearning.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pacakageLearning.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/palandrom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/palandrom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pallendromwords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pallendromwords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/primeAdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ubantu.java/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ubantu.java/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ubantu.java/bin/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ubantu.java/src/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ubantu.java/src/App.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2fjnBaGGqGK3l0LU7jium0EKK3e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/abhishek-08/Abhishek/gitProject"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea2e63ef-1e2d-4f4c-9e57-29f4351d6f67" name="Changes" comment="" />
+      <created>1714323220253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714323220253</updated>
+    </task>
+    <servers />
+  </component>
+</project>
